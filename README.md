@@ -29,7 +29,7 @@ The cost of each link in our problem is simplified and considered as the lenght/
   ##### Solution figure legends:	
   - The required production capacity of each power plant is shown in ![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) `blue color`
   - The transmission power of each line is shown in ![#c0c0c0](https://via.placeholder.com/15/c0c0c0/000000?text=+) `gray color`
-  - The consumed power of each ecity is shown in ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) `red color`
+  - The consumed power of each ecity is shown in ![#f80400](https://via.placeholder.com/15/f80400/000000?text=+) `red color`
   <p align="center">
   
 <img src="https://github.com/niushamir/Optimization_Electricity_Dispatching/blob/main/Images/Solution.jpg" width="900" height="500">
