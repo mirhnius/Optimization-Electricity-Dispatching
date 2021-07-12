@@ -25,6 +25,7 @@ The cost of each link in our problem is simplified and considered as the lenght/
   </p>
   
   * #### optimization solution
+  Python (MIP library) is used for implementing the solution. please find the step-by-step description of the code implementation in *code.ipynb* file.
   <p align="center">
   
 <img src="https://github.com/niushamir/Optimization_Electricity_Dispatching/blob/main/Images/Solution.jpg" width="900" height="500">
