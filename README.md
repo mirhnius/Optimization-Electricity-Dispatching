@@ -10,10 +10,25 @@ In the first phase, ten cities of Sweden were chosen,then by tracking the power 
   
 <img src="https://github.com/niushamir/Optimization_Electricity_Dispatching/blob/main/Images/Sweden%20Map.jpg" width="350" height="400">
   
-<img src="https://github.com/niushamir/Optimization_Electricity_Dispatching/blob/main/Images/Graph.jpg" width="800" height="500">
+<img src="https://github.com/niushamir/Optimization_Electricity_Dispatching/blob/main/Images/Graph.jpg" width="900" height="500">
 
 
 </p>
    
 * #### problem modeling
-*
+The cost of each link in our problem is simplified and considered as the lenght/resistance of each link.
+
+*This table determines lengths and types of each electric powwr transmission line between nodes (cities)*:
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/40741680/125337205-f49b0680-e363-11eb-940f-5e3d077d8005.png" width="800" height="300">
+  </p>
+  
+  * #### optimization solution
+  <p align="center">
+  
+<img src="https://github.com/niushamir/Optimization_Electricity_Dispatching/blob/main/Images/Solution.jpg" width="900" height="500">
+  </p>
+  
+  
+You could find more detailed information in the *Report.pdf* file.
