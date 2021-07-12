@@ -17,6 +17,8 @@ In the first phase, ten cities of Sweden were chosen,then by tracking the power 
    
 * #### problem modeling
 The cost of each link in our problem is simplified and considered as the lenght/resistance of each link.
+![image](https://user-images.githubusercontent.com/40741680/125346899-88be9b00-e36f-11eb-9ba3-2b691296a8b1.png)
+![image](https://user-images.githubusercontent.com/40741680/125347052-af7cd180-e36f-11eb-8a93-4c4e7bbf1608.png)
 
 *This table determines lengths and types of each electric powwr transmission line between nodes (cities)*:
 <p align="center">
